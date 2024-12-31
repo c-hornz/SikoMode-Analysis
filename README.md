@@ -1,4 +1,4 @@
-# SikoMode-Analysis-
+# SikoMode-Analysis
 Malware Analysis of SikoMode
 
 Files:
